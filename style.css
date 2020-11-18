@@ -685,6 +685,7 @@ p {
 blockquote footer {
     font-size: 15px;
     font-weight: bold;
+    color: black;
 }
 
 .tight-width-whitespace {
