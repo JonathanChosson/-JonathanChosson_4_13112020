@@ -653,6 +653,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
+    color: #3E3E3E!important;
 }
 
 .container {
@@ -747,6 +748,12 @@ h4 {
     font-weight: bold;
 }
 
+.black {
+    color:black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
 .underline{
     text-decoration: underline;
 }
@@ -836,12 +843,6 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
-}
-
-.black {
-    color:black;
-    font-weight: bold;
-    font-size: 18px;
 }
 
 @media (max-width: 1024px) {
