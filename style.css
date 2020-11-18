@@ -748,6 +748,11 @@ h4 {
     font-weight: bold;
 }
 
+.black {
+    color:black;
+    font-weight: bold;
+}
+
 .underline{
     text-decoration: underline;
 }
