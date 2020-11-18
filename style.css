@@ -679,7 +679,12 @@ a {
 }
 
 p {
-    font-size: 13px;
+    font-size: 17px;
+}
+
+blockquote footer {
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .tight-width-whitespace {
