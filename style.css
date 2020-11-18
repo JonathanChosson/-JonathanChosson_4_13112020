@@ -745,6 +745,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
@@ -784,6 +785,7 @@ h4 {
 
 .tc-white {
     color: white!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
