@@ -344,6 +344,10 @@ a:hover {
     border: 0px;
 }
 
+.img-logo{
+    width:100px;
+}
+
 .navbar-toggle:hover {
     background: transparent!important;
 }
